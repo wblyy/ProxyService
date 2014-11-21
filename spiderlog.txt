@@ -1,0 +1,517 @@
+2014-11-21 14:56:01 time to spider start!
+2014-11-21 14:56:01 time to spider start!
+http://www.xici.net.co/nn/  is finished
+2014-11-21 14:56:02 get page count: 183
+http://www.xici.net.co/nn/1  is finished
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 60.11.23.17 default_ip: 54.223.153.21
+2014-11-21 14:56:04 60.11.23.17 : 8585 has in DB.
+http://proxy.com.ru  is finished
+2014-11-21 14:56:05 get page count: 78
+Now IP: 140.249.54.221 default_ip: 54.223.153.21
+2014-11-21 14:56:09 140.249.54.221 : 8585 insert to DB.
+Now IP: 221.10.40.237 default_ip: 54.223.153.21
+2014-11-21 14:56:09 221.10.40.237 : 80 has in DB.
+Now IP: 221.10.40.238 default_ip: 54.223.153.21
+2014-11-21 14:56:09 221.10.40.238 : 80 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 119.6.136.126 default_ip: 54.223.153.21
+2014-11-21 14:56:11 119.6.136.126 : 80 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+http://proxy.com.ru/list_1.html
+Now IP: 221.10.102.203 default_ip: 54.223.153.21
+2014-11-21 14:56:11 221.10.102.203 : 82 has in DB.
+Now IP: 111.13.109.54 default_ip: 54.223.153.21
+2014-11-21 14:56:12 111.13.109.54 : 80 has in DB.
+Now IP: 183.203.8.148 default_ip: 54.223.153.21
+2014-11-21 14:56:12 183.203.8.148 : 8080 insert to DB.
+http://proxy.com.ru/list_1.html  is finished
+Now IP: 115.29.247.115 default_ip: 54.223.153.21
+2014-11-21 14:56:14 115.29.247.115 : 8888 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 119.6.136.126
+2014-11-21 14:56:18 113.105.93.80 : 80 insert to DB.
+Now IP: 177.128.24.75 default_ip: 119.6.136.126
+2014-11-21 14:56:19 177.128.24.75 : 8080 has in DB.
+Now IP: 221.176.14.26 default_ip: 54.223.153.21
+2014-11-21 14:56:19 221.176.14.72 : 80 has in DB.
+Now IP: 202.105.247.122 default_ip: 119.6.136.126
+2014-11-21 14:56:19 202.105.247.122 : 9999 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 221.10.40.236 default_ip: 54.223.153.21
+2014-11-21 14:56:19 221.10.40.236 : 83 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 210.22.62.237 default_ip: 54.223.153.21
+2014-11-21 14:56:20 120.203.214.187 : 80 has in DB.
+Now IP: 60.191.39.252 default_ip: 54.223.153.21
+2014-11-21 14:56:20 60.191.39.252 : 80 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 218.7.132.1 default_ip: 54.223.153.21
+2014-11-21 14:56:20 218.7.132.1 : 8080 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 202.105.247.122 default_ip: 54.223.153.21
+2014-11-21 14:56:21 202.105.247.122 : 9999 has in DB.
+Now IP: 106.3.40.249 default_ip: 54.223.153.21
+2014-11-21 14:56:21 106.3.40.249 : 8081 has in DB.
+Now IP: 218.104.239.12 default_ip: 54.223.153.21
+2014-11-21 14:56:24 218.104.239.12 : 8118 insert to DB.
+Now IP: 119.6.144.70 default_ip: 54.223.153.21
+2014-11-21 14:56:24 119.6.144.70 : 843 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 59.188.252.110 default_ip: 54.223.153.21
+2014-11-21 14:56:26 59.188.252.110 : 80 insert to DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 111.13.109.52 default_ip: 54.223.153.21
+2014-11-21 14:56:27 111.13.109.52 : 80 has in DB.
+Now IP: 42.202.146.58 default_ip: 119.6.136.126
+2014-11-21 14:56:29 218.60.56.95 : 8080 has in DB.
+Now IP: 42.202.146.58 default_ip: 119.6.136.126
+2014-11-21 14:56:29 42.202.146.58 : 8080 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 218.206.83.89 default_ip: 54.223.153.21
+2014-11-21 14:56:33 218.206.83.89 : 80 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 111.13.109.53 default_ip: 54.223.153.21
+2014-11-21 14:56:33 111.13.109.53 : 80 has in DB.
+Now IP: 218.201.38.49 default_ip: 54.223.153.21
+2014-11-21 14:56:33 218.201.38.49 : 80 has in DB.
+Now IP: 60.206.239.195 default_ip: 54.223.153.21
+2014-11-21 14:56:34 60.206.239.195 : 8118 has in DB.
+Now IP: 117.164.8.191 default_ip: 119.6.136.126
+2014-11-21 14:56:39 117.164.8.191 : 8123 insert to DB.
+Now IP: 124.88.67.40 default_ip: 54.223.153.21
+2014-11-21 14:56:39 124.88.67.40 : 80 has in DB.
+Now IP: 114.255.183.174 default_ip: 54.223.153.21
+2014-11-21 14:56:40 114.255.183.174 : 8080 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 183.224.99.149 default_ip: 119.6.136.126
+2014-11-21 14:56:44 183.224.99.149 : 8123 insert to DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 223.84.28.88 default_ip: 119.6.136.126
+2014-11-21 14:56:53 223.84.28.88 : 8123 insert to DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 101.99.22.73 default_ip: 119.6.136.126
+2014-11-21 14:56:58 101.99.22.73 : 8080 insert to DB.
+Now IP: 222.175.103.124 default_ip: 119.6.136.126
+2014-11-21 14:56:59 180.201.22.248 : 18186 insert to DB.
+Now IP: 202.106.169.228 default_ip: 119.6.136.126
+2014-11-21 14:56:59 202.106.169.228 : 8080 has in DB.
+Now IP: 221.176.14.8 default_ip: 119.6.136.126
+2014-11-21 14:56:59 221.176.14.72 : 80 has in DB.
+Now IP: 117.167.135.199 default_ip: 119.6.136.126
+2014-11-21 14:56:59 117.167.135.199 : 8123 insert to DB.
+Now IP: 117.21.193.0 default_ip: 119.6.136.126
+2014-11-21 14:56:59 117.21.192.8 : 80 has in DB.
+Now IP: 54.223.153.21 default_ip: 119.6.136.126
+2014-11-21 14:56:59 36.250.74.88 : 80 insert to DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+http://proxy.com.ru/list_2.html
+http://proxy.com.ru/list_2.html  is finished
+Now IP: 60.206.153.177 default_ip: 54.223.153.21
+2014-11-21 14:57:06 60.206.153.177 : 8118 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 61.234.5.149 default_ip: 54.223.153.21
+2014-11-21 14:57:08 120.199.243.61 : 8123 has in DB.
+Now IP: 111.13.109.51 default_ip: 54.223.153.21
+2014-11-21 14:57:08 111.13.109.51 : 80 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 182.92.241.92 default_ip: 54.223.153.21
+2014-11-21 14:57:10 182.92.241.92 : 80 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 37.239.46.26 default_ip: 119.6.136.126
+2014-11-21 14:57:12 37.239.46.26 : 80 has in DB.
+Now IP: 111.1.3.38 default_ip: 119.6.136.126
+2014-11-21 14:57:12 111.1.3.38 : 8000 insert to DB.
+Now IP: 222.187.222.118 default_ip: 119.6.136.126
+2014-11-21 14:57:20 222.187.222.118 : 8080 insert to DB.
+Now IP: 117.21.192.109 default_ip: 119.6.136.126
+2014-11-21 14:57:21 117.21.192.9 : 80 insert to DB.
+Now IP: 111.13.109.52 default_ip: 119.6.136.126
+2014-11-21 14:57:21 111.13.109.52 : 80 has in DB.
+Now IP: 121.40.72.148 default_ip: 54.223.153.21
+2014-11-21 14:57:24 121.40.72.148 : 80 has in DB.
+Now IP: 117.163.197.57 default_ip: 119.6.136.126
+2014-11-21 14:57:26 117.163.197.57 : 8123 insert to DB.
+Now IP: 113.214.13.1 default_ip: 54.223.153.21
+2014-11-21 14:57:28 113.214.13.1 : 8000 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 61.235.249.163 default_ip: 54.223.153.21
+2014-11-21 14:57:32 61.235.249.163 : 80 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 42.202.146.58 default_ip: 54.223.153.21
+2014-11-21 14:57:35 42.202.146.58 : 8080 has in DB.
+Now IP: 118.26.147.119 default_ip: 54.223.153.21
+2014-11-21 14:57:41 118.26.147.119 : 80 has in DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 180.153.32.11 default_ip: 54.223.153.21
+2014-11-21 14:57:45 140.206.86.70 : 8080 insert to DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 111.10.146.230 default_ip: 119.6.136.126
+2014-11-21 14:57:53 111.10.146.230 : 8123 insert to DB.
+Now IP: 54.223.153.21 default_ip: 119.6.136.126
+2014-11-21 14:57:58 117.27.245.98 : 80 insert to DB.
+Now IP: 120.192.200.72 default_ip: 119.6.136.126
+2014-11-21 14:57:58 120.192.200.72 : 80 insert to DB.
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+Now IP: 117.170.83.204 default_ip: 119.6.136.126
+2014-11-21 14:58:05 117.170.83.204 : 8123 insert to DB.
+Now IP: 113.57.230.54 default_ip: 119.6.136.126
+2014-11-21 14:58:06 113.57.230.54 : 81 has in DB.
+http://proxy.com.ru/list_3.html
+http://proxy.com.ru/list_3.html is forbidden
+http://proxy.com.ru/list_4.html
+http://proxy.com.ru/list_4.html is forbidden
+http://proxy.com.ru/list_5.html
+http://proxy.com.ru/list_5.html is forbidden
+http://proxy.com.ru/list_6.html
+http://proxy.com.ru/list_6.html is forbidden
+http://proxy.com.ru/list_7.html
+http://proxy.com.ru/list_7.html is forbidden
+http://proxy.com.ru/list_8.html
+http://proxy.com.ru/list_8.html is forbidden
+http://proxy.com.ru/list_9.html
+http://proxy.com.ru/list_9.html is forbidden
+http://proxy.com.ru/list_10.html
+http://proxy.com.ru/list_10.html is forbidden
+http://proxy.com.ru/list_11.html
+http://proxy.com.ru/list_11.html is forbidden
+http://proxy.com.ru/list_12.html
+http://proxy.com.ru/list_12.html is forbidden
+http://proxy.com.ru/list_13.html
+http://proxy.com.ru/list_13.html is forbidden
+http://proxy.com.ru/list_14.html
+http://proxy.com.ru/list_14.html is forbidden
+http://proxy.com.ru/list_15.html
+http://proxy.com.ru/list_15.html is forbidden
+http://proxy.com.ru/list_16.html
+http://proxy.com.ru/list_16.html is forbidden
+http://proxy.com.ru/list_17.html
+http://proxy.com.ru/list_17.html is forbidden
+http://proxy.com.ru/list_18.html
+http://proxy.com.ru/list_18.html is forbidden
+http://proxy.com.ru/list_19.html
+http://proxy.com.ru/list_19.html is forbidden
+http://proxy.com.ru/list_20.html
+http://proxy.com.ru/list_20.html is forbidden
+http://proxy.com.ru/list_21.html
+http://proxy.com.ru/list_21.html is forbidden
+http://proxy.com.ru/list_22.html
+http://proxy.com.ru/list_22.html is forbidden
+http://proxy.com.ru/list_23.html
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+http://proxy.com.ru/list_23.html is forbidden
+http://proxy.com.ru/list_24.html
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+http://proxy.com.ru/list_24.html is forbidden
+http://proxy.com.ru/list_25.html
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+http://proxy.com.ru/list_25.html is forbidden
+http://proxy.com.ru/list_26.html
+http://proxy.com.ru/list_26.html is forbidden
+http://proxy.com.ru/list_27.html
+http://proxy.com.ru/list_27.html is forbidden
+http://proxy.com.ru/list_28.html
+http://proxy.com.ru/list_28.html is forbidden
+http://proxy.com.ru/list_29.html
+http://proxy.com.ru/list_29.html is forbidden
+http://proxy.com.ru/list_30.html
+http://proxy.com.ru/list_30.html is forbidden
+http://proxy.com.ru/list_31.html
+http://proxy.com.ru/list_31.html is forbidden
+http://proxy.com.ru/list_32.html
+http://proxy.com.ru/list_32.html is forbidden
+http://proxy.com.ru/list_33.html
+http://proxy.com.ru/list_33.html is forbidden
+http://proxy.com.ru/list_34.html
+http://proxy.com.ru/list_34.html is forbidden
+http://proxy.com.ru/list_35.html
+http://proxy.com.ru/list_35.html is forbidden
+http://proxy.com.ru/list_36.html
+http://proxy.com.ru/list_36.html is forbidden
+http://proxy.com.ru/list_37.html
+http://proxy.com.ru/list_37.html is forbidden
+http://proxy.com.ru/list_38.html
+http://proxy.com.ru/list_38.html is forbidden
+http://proxy.com.ru/list_39.html
+http://proxy.com.ru/list_39.html is forbidden
+http://proxy.com.ru/list_40.html
+http://proxy.com.ru/list_40.html is forbidden
+http://proxy.com.ru/list_41.html
+http://proxy.com.ru/list_41.html is forbidden
+http://proxy.com.ru/list_42.html
+http://proxy.com.ru/list_42.html is forbidden
+http://proxy.com.ru/list_43.html
+http://proxy.com.ru/list_43.html is forbidden
+http://proxy.com.ru/list_44.html
+http://proxy.com.ru/list_44.html is forbidden
+http://proxy.com.ru/list_45.html
+http://proxy.com.ru/list_45.html is forbidden
+http://proxy.com.ru/list_46.html
+http://proxy.com.ru/list_46.html is forbidden
+http://proxy.com.ru/list_47.html
+http://proxy.com.ru/list_47.html is forbidden
+http://proxy.com.ru/list_48.html
+http://proxy.com.ru/list_48.html is forbidden
+http://proxy.com.ru/list_49.html
+http://proxy.com.ru/list_49.html is forbidden
+http://proxy.com.ru/list_50.html
+http://proxy.com.ru/list_50.html is forbidden
+http://proxy.com.ru/list_51.html
+http://proxy.com.ru/list_51.html is forbidden
+http://proxy.com.ru/list_52.html
+http://proxy.com.ru/list_52.html is forbidden
+http://proxy.com.ru/list_53.html
+http://proxy.com.ru/list_53.html is forbidden
+http://proxy.com.ru/list_54.html
+http://proxy.com.ru/list_54.html is forbidden
+http://proxy.com.ru/list_55.html
+http://proxy.com.ru/list_55.html is forbidden
+http://proxy.com.ru/list_56.html
+http://proxy.com.ru/list_56.html is forbidden
+http://proxy.com.ru/list_57.html
+http://proxy.com.ru/list_57.html is forbidden
+http://proxy.com.ru/list_58.html
+http://proxy.com.ru/list_58.html is forbidden
+http://proxy.com.ru/list_59.html
+http://proxy.com.ru/list_59.html is forbidden
+http://proxy.com.ru/list_60.html
+http://proxy.com.ru/list_60.html is forbidden
+http://proxy.com.ru/list_61.html
+http://proxy.com.ru/list_61.html is forbidden
+http://proxy.com.ru/list_62.html
+http://proxy.com.ru/list_62.html is forbidden
+http://proxy.com.ru/list_63.html
+http://proxy.com.ru/list_63.html is forbidden
+http://proxy.com.ru/list_64.html
+http://proxy.com.ru/list_64.html is forbidden
+http://proxy.com.ru/list_65.html
+http://proxy.com.ru/list_65.html is forbidden
+http://proxy.com.ru/list_66.html
+http://proxy.com.ru/list_66.html is forbidden
+http://proxy.com.ru/list_67.html
+http://proxy.com.ru/list_67.html is forbidden
+http://proxy.com.ru/list_68.html
+http://proxy.com.ru/list_68.html is forbidden
+http://proxy.com.ru/list_69.html
+http://proxy.com.ru/list_69.html is forbidden
+http://proxy.com.ru/list_70.html
+http://proxy.com.ru/list_70.html is forbidden
+http://proxy.com.ru/list_71.html
+http://proxy.com.ru/list_71.html is forbidden
+http://proxy.com.ru/list_72.html
+http://proxy.com.ru/list_72.html is forbidden
+http://proxy.com.ru/list_73.html
+http://proxy.com.ru/list_73.html is forbidden
+http://proxy.com.ru/list_74.html
+http://proxy.com.ru/list_74.html is forbidden
+http://proxy.com.ru/list_75.html
+http://proxy.com.ru/list_75.html is forbidden
+http://proxy.com.ru/list_76.html
+http://proxy.com.ru/list_76.html is forbidden
+http://proxy.com.ru/list_77.html
+http://proxy.com.ru/list_77.html is forbidden
+Now IP: 54.223.153.21 default_ip: 54.223.153.21
+http://www.xici.net.co/nn/2 is forbidden
+http://www.xici.net.co/nn/3 is forbidden
+http://www.xici.net.co/nn/4 is forbidden
+http://www.xici.net.co/nn/5 is forbidden
+http://www.xici.net.co/nn/6 is forbidden
+http://www.xici.net.co/nn/7 is forbidden
+http://www.xici.net.co/nn/8 is forbidden
+http://www.xici.net.co/nn/9 is forbidden
+http://www.xici.net.co/nn/10 is forbidden
+http://www.xici.net.co/nn/11 is forbidden
+http://www.xici.net.co/nn/12 is forbidden
+http://www.xici.net.co/nn/13 is forbidden
+http://www.xici.net.co/nn/14 is forbidden
+http://www.xici.net.co/nn/15 is forbidden
+http://www.xici.net.co/nn/16 is forbidden
+http://www.xici.net.co/nn/17 is forbidden
+http://www.xici.net.co/nn/18 is forbidden
+http://www.xici.net.co/nn/19 is forbidden
+http://www.xici.net.co/nn/20 is forbidden
+http://www.xici.net.co/nn/21 is forbidden
+http://www.xici.net.co/nn/22 is forbidden
+http://www.xici.net.co/nn/23 is forbidden
+http://www.xici.net.co/nn/24 is forbidden
+http://www.xici.net.co/nn/25 is forbidden
+http://www.xici.net.co/nn/26 is forbidden
+http://www.xici.net.co/nn/27 is forbidden
+http://www.xici.net.co/nn/28 is forbidden
+http://www.xici.net.co/nn/29 is forbidden
+http://www.xici.net.co/nn/30 is forbidden
+http://www.xici.net.co/nn/31 is forbidden
+http://www.xici.net.co/nn/32 is forbidden
+http://www.xici.net.co/nn/33 is forbidden
+http://www.xici.net.co/nn/34 is forbidden
+http://www.xici.net.co/nn/35 is forbidden
+http://www.xici.net.co/nn/36 is forbidden
+http://www.xici.net.co/nn/37 is forbidden
+http://www.xici.net.co/nn/38 is forbidden
+http://www.xici.net.co/nn/39 is forbidden
+http://www.xici.net.co/nn/40 is forbidden
+http://www.xici.net.co/nn/41 is forbidden
+http://www.xici.net.co/nn/42 is forbidden
+http://www.xici.net.co/nn/43 is forbidden
+http://www.xici.net.co/nn/44 is forbidden
+http://www.xici.net.co/nn/45 is forbidden
+http://www.xici.net.co/nn/46 is forbidden
+http://www.xici.net.co/nn/47 is forbidden
+http://www.xici.net.co/nn/48 is forbidden
+http://www.xici.net.co/nn/49 is forbidden
+http://www.xici.net.co/nn/50 is forbidden
+http://www.xici.net.co/nn/51 is forbidden
+http://www.xici.net.co/nn/52 is forbidden
+http://www.xici.net.co/nn/53 is forbidden
+http://www.xici.net.co/nn/54 is forbidden
+http://www.xici.net.co/nn/55 is forbidden
+http://www.xici.net.co/nn/56 is forbidden
+http://www.xici.net.co/nn/57 is forbidden
+http://www.xici.net.co/nn/58 is forbidden
+http://www.xici.net.co/nn/59 is forbidden
+http://www.xici.net.co/nn/60 is forbidden
+http://www.xici.net.co/nn/61 is forbidden
+http://www.xici.net.co/nn/62 is forbidden
+http://www.xici.net.co/nn/63 is forbidden
+http://www.xici.net.co/nn/64 is forbidden
+http://www.xici.net.co/nn/65 is forbidden
+http://www.xici.net.co/nn/66 is forbidden
+http://www.xici.net.co/nn/67 is forbidden
+http://www.xici.net.co/nn/68 is forbidden
+http://www.xici.net.co/nn/69 is forbidden
+http://www.xici.net.co/nn/70 is forbidden
+http://www.xici.net.co/nn/71 is forbidden
+http://www.xici.net.co/nn/72 is forbidden
+http://www.xici.net.co/nn/73 is forbidden
+http://www.xici.net.co/nn/74 is forbidden
+http://www.xici.net.co/nn/75 is forbidden
+http://www.xici.net.co/nn/76 is forbidden
+http://www.xici.net.co/nn/77 is forbidden
+http://www.xici.net.co/nn/78 is forbidden
+http://www.xici.net.co/nn/79 is forbidden
+http://www.xici.net.co/nn/80 is forbidden
+http://www.xici.net.co/nn/81 is forbidden
+http://www.xici.net.co/nn/82 is forbidden
+http://www.xici.net.co/nn/83 is forbidden
+http://www.xici.net.co/nn/84 is forbidden
+http://www.xici.net.co/nn/85 is forbidden
+http://www.xici.net.co/nn/86 is forbidden
+http://www.xici.net.co/nn/87 is forbidden
+http://www.xici.net.co/nn/88 is forbidden
+http://www.xici.net.co/nn/89 is forbidden
+http://www.xici.net.co/nn/90 is forbidden
+http://www.xici.net.co/nn/91 is forbidden
+http://www.xici.net.co/nn/92 is forbidden
+http://www.xici.net.co/nn/93 is forbidden
+http://www.xici.net.co/nn/94 is forbidden
+http://www.xici.net.co/nn/95 is forbidden
+http://www.xici.net.co/nn/96 is forbidden
+http://www.xici.net.co/nn/97 is forbidden
+http://www.xici.net.co/nn/98 is forbidden
+http://www.xici.net.co/nn/99 is forbidden
+http://www.xici.net.co/nn/100 is forbidden
+http://www.xici.net.co/nn/101 is forbidden
+http://www.xici.net.co/nn/102 is forbidden
+http://www.xici.net.co/nn/103 is forbidden
+http://www.xici.net.co/nn/104 is forbidden
+http://www.xici.net.co/nn/105 is forbidden
+http://www.xici.net.co/nn/106 is forbidden
+http://www.xici.net.co/nn/107 is forbidden
+http://www.xici.net.co/nn/108 is forbidden
+http://www.xici.net.co/nn/109 is forbidden
+http://www.xici.net.co/nn/110 is forbidden
+http://www.xici.net.co/nn/111 is forbidden
+http://www.xici.net.co/nn/112 is forbidden
+http://www.xici.net.co/nn/113 is forbidden
+http://www.xici.net.co/nn/114 is forbidden
+http://www.xici.net.co/nn/115 is forbidden
+http://www.xici.net.co/nn/116 is forbidden
+http://www.xici.net.co/nn/117 is forbidden
+http://www.xici.net.co/nn/118 is forbidden
+http://www.xici.net.co/nn/119 is forbidden
+http://www.xici.net.co/nn/120 is forbidden
+http://www.xici.net.co/nn/121 is forbidden
+http://www.xici.net.co/nn/122 is forbidden
+http://www.xici.net.co/nn/123 is forbidden
+http://www.xici.net.co/nn/124 is forbidden
+http://www.xici.net.co/nn/125 is forbidden
+http://www.xici.net.co/nn/126 is forbidden
+http://www.xici.net.co/nn/127 is forbidden
+http://www.xici.net.co/nn/128 is forbidden
+http://www.xici.net.co/nn/129 is forbidden
+http://www.xici.net.co/nn/130 is forbidden
+http://www.xici.net.co/nn/131 is forbidden
+http://www.xici.net.co/nn/132 is forbidden
+http://www.xici.net.co/nn/133 is forbidden
+http://www.xici.net.co/nn/134 is forbidden
+http://www.xici.net.co/nn/135 is forbidden
+http://www.xici.net.co/nn/136 is forbidden
+http://www.xici.net.co/nn/137 is forbidden
+http://www.xici.net.co/nn/138 is forbidden
+http://www.xici.net.co/nn/139 is forbidden
+http://www.xici.net.co/nn/140 is forbidden
+http://www.xici.net.co/nn/141 is forbidden
+http://www.xici.net.co/nn/142 is forbidden
+http://www.xici.net.co/nn/143 is forbidden
+http://www.xici.net.co/nn/144 is forbidden
+http://www.xici.net.co/nn/145 is forbidden
+http://www.xici.net.co/nn/146 is forbidden
+http://www.xici.net.co/nn/147 is forbidden
+http://www.xici.net.co/nn/148 is forbidden
+http://www.xici.net.co/nn/149 is forbidden
+http://www.xici.net.co/nn/150 is forbidden
+http://www.xici.net.co/nn/151 is forbidden
+http://www.xici.net.co/nn/152 is forbidden
+http://www.xici.net.co/nn/153 is forbidden
+http://www.xici.net.co/nn/154 is forbidden
+http://www.xici.net.co/nn/155 is forbidden
+http://www.xici.net.co/nn/156 is forbidden
+http://www.xici.net.co/nn/157 is forbidden
+http://www.xici.net.co/nn/158 is forbidden
+http://www.xici.net.co/nn/159 is forbidden
+http://www.xici.net.co/nn/160 is forbidden
+http://www.xici.net.co/nn/161 is forbidden
+http://www.xici.net.co/nn/162 is forbidden
+http://www.xici.net.co/nn/163 is forbidden
+http://www.xici.net.co/nn/164 is forbidden
+http://www.xici.net.co/nn/165 is forbidden
+http://www.xici.net.co/nn/166 is forbidden
+http://www.xici.net.co/nn/167 is forbidden
+http://www.xici.net.co/nn/168 is forbidden
+http://www.xici.net.co/nn/169 is forbidden
+http://www.xici.net.co/nn/170 is forbidden
+http://www.xici.net.co/nn/171 is forbidden
+http://www.xici.net.co/nn/172 is forbidden
+http://www.xici.net.co/nn/173 is forbidden
+http://www.xici.net.co/nn/174 is forbidden
+http://www.xici.net.co/nn/175 is forbidden
+http://www.xici.net.co/nn/176 is forbidden
+http://www.xici.net.co/nn/177 is forbidden
+http://www.xici.net.co/nn/178 is forbidden
+http://www.xici.net.co/nn/179 is forbidden
+http://www.xici.net.co/nn/180 is forbidden
+http://www.xici.net.co/nn/181 is forbidden
+http://www.xici.net.co/nn/182 is forbidden
+http://www.xici.net.co/nt/ is forbidden
+2014-11-21 14:58:30 get page count: 0
+http://www.xici.net.co/wn/ is forbidden
+2014-11-21 14:58:30 get page count: 0
+http://www.xici.net.co/wt/ is forbidden
+2014-11-21 14:58:30 get page count: 0
